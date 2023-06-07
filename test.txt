@@ -1,1 +1,7 @@
 <!channel|Channel>
+<!channel>
+<!here>
+<!everyone|Everyone>
+<!everyone>
+<!date>
+<@luca.erbetta>
